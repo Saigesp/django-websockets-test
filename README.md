@@ -1,2 +1,4 @@
-# django-websockets
-django websockets example
+# Django-websockets
+Django websockets example
+
+Django2 & Python3
